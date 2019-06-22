@@ -45,7 +45,7 @@ public class GestionVieUI : MonoBehaviour
         if (this.vie.Equals(0))
         {
             Debug.Log(this.vie);
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene("MainMenu");
 
             /*if (Time.timeScale == 1.0)
             {
