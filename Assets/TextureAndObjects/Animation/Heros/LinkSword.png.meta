@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 09dbeb099813af44cb0ad855427f0125
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7665935767774107604
+    second: LinkSword_0
+  - first:
+      213: -5168967035988255429
+    second: LinkSword_1
+  - first:
+      213: -3767767720090675700
+    second: LinkSword_2
+  - first:
+      213: -7538605089346340973
+    second: LinkSword_3
+  - first:
+      213: 2163381325964982604
+    second: LinkSword_4
+  - first:
+      213: -1637929169630821975
+    second: LinkSword_5
+  - first:
+      213: -2810823051822870535
+    second: LinkSword_6
+  - first:
+      213: -6943686949314130558
+    second: LinkSword_7
+  - first:
+      213: -7643523231548021926
+    second: LinkSword_8
+  - first:
+      213: 5894000935732553043
+    second: LinkSword_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinkSword_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 315
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f62dc21d437cd4a983a9d650820653
+      internalID: -7665935767774107604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 334
+        width: 112
+        height: 62
+      alignment: 9
+      pivot: {x: 0.25821632, y: 0.40556335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec96dec6adcc01840ad9da36097ab995
+      internalID: -5168967035988255429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 333
+        width: 115
+        height: 125
+      alignment: 9
+      pivot: {x: 0.71002036, y: 0.18382496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f4ea5c0e4874d4a8d7934dd4ba94e7
+      internalID: -3767767720090675700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 326
+        width: 115
+        height: 125
+      alignment: 9
+      pivot: {x: 0.7227491, y: 0.23066577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec98a1ca948c81448a84344da4843f0
+      internalID: -7538605089346340973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 326
+        width: 115
+        height: 125
+      alignment: 9
+      pivot: {x: 0.71002144, y: 0.26579663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7415518f78c9ed04b962fc976be35804
+      internalID: 2163381325964982604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 133
+        width: 112
+        height: 125
+      alignment: 9
+      pivot: {x: 0.72218025, y: 0.7107837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2c1eef37c3e844a45204e472e0cf8
+      internalID: -1637929169630821975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 145
+        width: 112
+        height: 125
+      alignment: 9
+      pivot: {x: 0.7809928, y: 0.6697981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef8d2e047b8f44aa7665f44396e8ad
+      internalID: -2810823051822870535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 148
+        width: 112
+        height: 125
+      alignment: 9
+      pivot: {x: 0.7613891, y: 0.66394323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccae21112a506e14f94c18b1fff00b7d
+      internalID: -6943686949314130558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 142
+        width: 170
+        height: 153
+      alignment: 9
+      pivot: {x: 0.46555895, y: 0.37084392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12922751c5be72f48b9ca1e1f661e8b9
+      internalID: -7643523231548021926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSword_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 127
+        width: 170
+        height: 154
+      alignment: 9
+      pivot: {x: 0.38375962, y: 0.4762376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678121ff33298ad4e806a57ddff62aa9
+      internalID: 5894000935732553043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 928be4a175347c0489c378e6c0850f9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

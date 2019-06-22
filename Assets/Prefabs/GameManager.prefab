@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3333097967529831105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3333097967529831108}
+  - component: {fileID: 3333097967529831106}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3333097967529831108
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333097967529831105}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3333097967529831106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333097967529831105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1843fda5c4c349b69e05be469386c2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  columns: 100
+  rows: 100
+  currentLevel: 1
+  numEnnemy:
+    m_Min: 50
+    m_Max: 70
+  numRooms:
+    m_Min: 8
+    m_Max: 8
+  roomWidth:
+    m_Min: 10
+    m_Max: 10
+  roomHeight:
+    m_Min: 10
+    m_Max: 10
+  floorTiles:
+  - {fileID: 3466936033196479810, guid: 673effa8c6c5b4975b5ea7ae9fbc99e4, type: 3}
+  floorTilesEnnemy:
+  - {fileID: 9043725137124317414, guid: 8c9e5934a377144a0a27e32ea792b80b, type: 3}
+  wallTiles1:
+  - {fileID: 5411510907174452093, guid: 24a9f0c3b3d104a9b82a6ffe0a6adc0b, type: 3}
+  wallTiles2:
+  - {fileID: 5112163706828161317, guid: a0512ef8be82a4bc1bab8bd17038a4eb, type: 3}
+  wallTiles3:
+  - {fileID: 290776715687664658, guid: ef185380a5d244650bbaa096e134a4c8, type: 3}
+  wallTiles4:
+  - {fileID: 3649511145722630190, guid: 6020d528078a443a09c8ed30b4e1e160, type: 3}
+  outerWallTiles:
+  - {fileID: 266234069068025622, guid: 8fcf0992f132c4c4b8a67a3b5d8dfac0, type: 3}
+  player: {fileID: 0}
+  PrefabsEnnemy:
+  - {fileID: 266234069068025622, guid: 8fcf0992f132c4c4b8a67a3b5d8dfac0, type: 3}
+  PrefabsMiniBoss: []
+  soundManager: {fileID: 0}
